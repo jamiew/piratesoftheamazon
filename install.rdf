@@ -4,9 +4,10 @@
          xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <RDF:Description RDF:about="urn:mozilla:install-manifest"
                    em:id="pirates-of-the-amazon@work"
-                   em:name="Enrique B. and John S."
+                   em:name="Pirates of the Amazon"
                    em:version="0.6.1"
-                   em:creator="Pirates of the Amazon"
+                   em:description="One-click torrent downloads for Amazon.com"
+                   em:creator="Enrique B. and John S."
                    em:homepageURL="http://pirates-of-the-amazon.com/"
 				   em:iconURL="chrome://piratesoftheamazon/content/icons/pirate_icon.png"
                    em:updateURL="http://pirates-of-the-amazon.com/update.rdf"
